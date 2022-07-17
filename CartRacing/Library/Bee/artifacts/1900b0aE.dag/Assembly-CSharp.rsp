@@ -364,6 +364,7 @@
 "Assets/Codes/Ghost.cs"
 "Assets/Codes/PlayerController.cs"
 "Assets/Codes/RaceMonitor.cs"
+"Assets/Codes/SmoothFollow.cs"
 "Assets/WheelEffects/BetterWheelEffects/Skidmarks.cs"
 "Assets/WheelEffects/BetterWheelEffects/WheelSkid.cs"
 -langversion:9.0

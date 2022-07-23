@@ -6,6 +6,8 @@ TagManager:
   tags:
   - car
   - road
+  - hud
+  - checkpoint
   layers:
   - Default
   - TransparentFX
